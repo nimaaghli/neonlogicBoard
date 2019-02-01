@@ -1,0 +1,43 @@
+Change Component Comment : Designator=C1 Old Comment=1uF 16V  New Comment=1uF 16V
+Change Component Comment : Designator=C2 Old Comment=1uF 16V  New Comment=1uF 16V
+Change Component Comment : Designator=R8 Old Comment=4K7  New Comment=4K7
+Change Component Comment : Designator=R9 Old Comment=4K7  New Comment=4K7
+Change Component Comment : Designator=R5 Old Comment=10K  New Comment=10K
+Change Component Comment : Designator=R6 Old Comment=10K  New Comment=10K
+Change Component Comment : Designator=C8 Old Comment=22pF  New Comment=22pF
+Change Component Comment : Designator=C9 Old Comment=22pF  New Comment=22pF
+Change Component Comment : Designator=R10 Old Comment=100K  New Comment=100K
+Change Component Comment : Designator=R15 Old Comment=100K  New Comment=100K
+Added Component: Designator=J?(HIRO-ZX62D-B-5P8_V)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Capacitance"; Value = "1 uF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case/Package"; Value = "1206"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case Code (Imperial)"; Value = "1206"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case Code (Metric)"; Value = "3216"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer URL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.hirose.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://www.hirose.com/product/en/download_file/key_name/ZX62D-B-5P8/category/Catalog/doc_file_id/31704/?file_category_id=5&item_id=02420034000&is_series="; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3Description"; Value = "Package Specification"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3URL"; Value = "https://www.hirose.com/product/en/download_file/key_name/ZX62D-B-5P8/category/Drawing%20(2D)/doc_file_id/36535/?file_category_id=6&item_id=02420034000&is_series="; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DatasheetVersion"; Value = "Aug-16"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ESR"; Value = "7.5 Ohm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "1.8 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Length"; Value = "3.2 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = "125degC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = "-55degC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "USB Connector, 5 Position Surface Mount, Length 8 mm, Height 2.65 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Quantity"; Value = "2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "ZX62D-B-5P8"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Tape and Reel"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pins"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Radiation Hardening"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "REACH SVHC"; Value = "No SVHC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resistance"; Value = "7.5 Ohm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHSCompliant"; Value = "True"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = "35 V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating (DC)"; Value = "35 V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Weight"; Value = "0.000571 oz"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Width"; Value = "1.6 mm"; VariantName = "[No Variations]"

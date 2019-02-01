@@ -1,0 +1,23 @@
+------------------------------------------------------------------------------------------
+Gerber File Extension Report For: PCB1.GBR   7/5/2018  2:35:52 AM
+------------------------------------------------------------------------------------------
+
+
+------------------------------------------------------------------------------------------
+Layer Extension     Layer Description                      
+------------------------------------------------------------------------------------------
+.GTL                Top Layer                               
+.GTS                Top Solder                              
+.GBS                Bottom Solder                           
+.GBL                Bottom Layer                            
+.GPT                Top Pad Master                          
+.GTO                Top Overlay                             
+.GPB                Bottom Pad Master                       
+.GBP                Bottom Paste                            
+.GBO                Bottom Overlay                          
+.GTP                Top Paste                               
+.GKO                Keep-Out Layer                          
+.GM13               Mechanical 13                           
+.GM1                Mechanical 1                            
+.GM15               Mechanical 15                           
+------------------------------------------------------------------------------------------

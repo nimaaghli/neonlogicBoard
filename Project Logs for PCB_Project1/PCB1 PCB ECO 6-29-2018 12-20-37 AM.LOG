@@ -1,0 +1,35 @@
+Removed Member From Class: ClassName=U_MCU Member=U2
+Removed Member From Class: ClassName=WiFi Member=U3
+Removed Member From Class: ClassName=WiFi Member=U?
+Change Component Designator: OldDesignator=U2 NewDesignator=U3
+Change Component Designator: OldDesignator=U3 NewDesignator=U4
+Change Component Designator: OldDesignator=U3 NewDesignator=U5
+Change Component Designator: OldDesignator=U4 NewDesignator=U6
+Added Component: Designator=R17(RESC0603(1608)_M)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Case-EIA"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case-Metric"; Value = "1608"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = "0.1 W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Technology"; Value = "SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "1 %"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100.00 Ohm"; VariantName = "[No Variations]"
+Change Net Name : Old Net Name=NetU3_18 New Net Name=NetU5_18
+Change Net Name : Old Net Name=NetU3_19 New Net Name=NetU5_19
+Change Net Name : Old Net Name=NetU3_20 New Net Name=NetU5_20
+Change Net Name : Old Net Name=NetU3_22 New Net Name=NetU5_22
+Change Net Name : Old Net Name=NetU3_23 New Net Name=NetU5_23
+Change Net Name : Old Net Name=NRST New Net Name=RST
+Change Net Name : Old Net Name=RST New Net Name=NetR12_2
+Change Net Name : Old Net Name=SWCLK New Net Name=NetR11_1
+Change Net Name : Old Net Name=SWDIO New Net Name=NetR14_2
+Change Net Name : Old Net Name=SWO New Net Name=NetR16_1
+Added Pin To Net: NetName=NetR17_1 Pin=R17-1
+Added Net: Name=NetR17_1
+Added Pin To Net: NetName=NetR17_2 Pin=R17-2
+Added Pin To Net: NetName=NetR17_2 Pin=U1-29
+Added Net: Name=NetR17_2
+Added Member To Class: ClassName=U_MCU Member=Component P3 Header 20
+Added Member To Class: ClassName=U_MCU Member=Component P4 Header 20
+Added Member To Class: ClassName=U_STLINK-V2 Member=Component R17 100R
+Added Member To Class: ClassName=U_MCU Member=Component U4 LF33ABDT-TR
+Added Member To Class: ClassName=WiFi Member=Component U5 ESP8266EX

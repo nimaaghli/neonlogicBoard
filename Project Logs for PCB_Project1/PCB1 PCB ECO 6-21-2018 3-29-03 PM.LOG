@@ -1,0 +1,43 @@
+Removed Pin From Net: NetName=NetD1_2 Pin=J1-1
+Removed Pin From Net: NetName=NetD2_3 Pin=J1-2
+Removed Pin From Net: NetName=NetD2_1 Pin=J1-3
+Removed Pin From Net: NetName=GND Pin=J1-5
+Removed Member From Class: ClassName=U_STLINK-V2 Member=J?
+Removed Member From Class: ClassName=U_STLINK-V2 Member=P3
+Removed Member From Class: ClassName=U_STLINK-V2 Member=P4
+Added Component: Designator=J1(MOLX-47589-0001_V)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = ""; Value = "0475890001"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Brand"; Value = "Molex"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Color"; Value = "Black"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Connector Type"; Value = "MicroUSBTypeABreceptacle"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Material"; Value = "CopperAlloy"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Plating"; Value = "Gold"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current Rating"; Value = "1.8A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet URL"; Value = "http://www.molex.com/webdocs/datasheets/pdf/en-us/0475890001_IO_CONNECTORS.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Version"; Value = "12/2016"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Gender"; Value = "Female"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Molex"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer URL"; Value = "http://www.molex.com/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Angle"; Value = "Right"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = "SurfaceMount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Contacts"; Value = "5Contact"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Ports"; Value = "1Port"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature Range"; Value = "-20Cto+85C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Description"; Value = "Micro USB Connector, Pitch 0.65 mm, 5 Positions, Body 7.5 x 5.6 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Reference"; Value = "47589-0001"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package URL"; Value = "http://www.molex.com/pdm_docs/sd/475890001_sd.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Reel"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Product"; Value = "MicroUSBTypeABConnectors"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Product Category"; Value = "USBConnectors"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "True"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Series"; Value = "47589"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Standard"; Value = "USB"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Termination Style"; Value = "SMD/SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = "30VAC"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetD1_2 Pin=J1-1
+Added Pin To Net: NetName=NetD2_3 Pin=J1-2
+Added Pin To Net: NetName=NetD2_1 Pin=J1-3
+Added Pin To Net: NetName=GND Pin=J1-5
+Added Member To Class: ClassName=U_STLINK-V2 Member=Component P1 
+Added Member To Class: ClassName=U_STLINK-V2 Member=Component P2 

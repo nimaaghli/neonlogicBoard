@@ -1,0 +1,101 @@
+Protel Design System Design Rule Check
+PCB File : C:\Users\Nima\Desktop\STM32_Board\PCB1.PcbDoc
+Date     : 7/5/2018
+Time     : 2:02:02 AM
+
+Processing Rule : Clearance Constraint (Gap=0.152mm) (All),(All)
+Rule Violations :0
+
+Processing Rule : Short-Circuit Constraint (Allowed=No) (All),(All)
+   Violation between Short-Circuit Constraint: Between Area Fill (3.162mm,6.223mm) (4.737mm,8.123mm) on Top Layer And Pad USB-11(3.95mm,6.385mm) on Multi-Layer Location : [X = 3.95mm][Y = 6.687mm]
+   Violation between Short-Circuit Constraint: Between Area Fill (3.163mm,12.997mm) (4.738mm,14.897mm) on Top Layer And Pad USB-8(3.95mm,14.735mm) on Multi-Layer Location : [X = 3.95mm][Y = 14.434mm]
+Rule Violations :2
+
+Processing Rule : Un-Routed Net Constraint ( (InNet('No Net')) )
+Rule Violations :0
+
+Processing Rule : Modified Polygon (Allow modified: No), (Allow shelved: No)
+Rule Violations :0
+
+Processing Rule : Width Constraint (Min=0.16mm) (Max=0.8mm) (Preferred=0.2mm) (All)
+Rule Violations :0
+
+Processing Rule : Power Plane Connect Rule(Relief Connect )(Expansion=0.508mm) (Conductor Width=0.254mm) (Air Gap=0.254mm) (Entries=4) (All)
+Rule Violations :0
+
+Processing Rule : Hole Size Constraint (Min=0.254mm) (Max=2.54mm) (All)
+   Violation between Hole Size Constraint: (0.2mm < 0.254mm) Via (47.54mm,11.255mm) from Top Layer to Bottom Layer Actual Hole Size = 0.2mm
+   Violation between Hole Size Constraint: (0.2mm < 0.254mm) Via (47.55mm,10.16mm) from Top Layer to Bottom Layer Actual Hole Size = 0.2mm
+   Violation between Hole Size Constraint: (0.2mm < 0.254mm) Via (47.55mm,9.06mm) from Top Layer to Bottom Layer Actual Hole Size = 0.2mm
+   Violation between Hole Size Constraint: (0.2mm < 0.254mm) Via (48.64mm,10.155mm) from Top Layer to Bottom Layer Actual Hole Size = 0.2mm
+   Violation between Hole Size Constraint: (0.2mm < 0.254mm) Via (48.64mm,11.255mm) from Top Layer to Bottom Layer Actual Hole Size = 0.2mm
+   Violation between Hole Size Constraint: (0.2mm < 0.254mm) Via (48.64mm,9.055mm) from Top Layer to Bottom Layer Actual Hole Size = 0.2mm
+   Violation between Hole Size Constraint: (0.2mm < 0.254mm) Via (49.74mm,10.155mm) from Top Layer to Bottom Layer Actual Hole Size = 0.2mm
+   Violation between Hole Size Constraint: (0.2mm < 0.254mm) Via (49.74mm,11.255mm) from Top Layer to Bottom Layer Actual Hole Size = 0.2mm
+   Violation between Hole Size Constraint: (0.2mm < 0.254mm) Via (49.74mm,9.055mm) from Top Layer to Bottom Layer Actual Hole Size = 0.2mm
+Rule Violations :9
+
+Processing Rule : Hole To Hole Clearance (Gap=0.254mm) (All),(All)
+Rule Violations :0
+
+Processing Rule : Minimum Solder Mask Sliver (Gap=0.046mm) (HasFootprint('ESFS-QFN-32_M')),(All)
+Rule Violations :0
+
+Processing Rule : Minimum Solder Mask Sliver (Gap=0.076mm) (All),(All)
+   Violation between Minimum Solder Mask Sliver Constraint: (0.013mm < 0.076mm) Between Pad U1-14(31.65mm,6.18mm) on Top Layer And Via (31.24mm,7.46mm) from Top Layer to Bottom Layer [Top Solder] Mask Sliver [0.013mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.076mm < 0.076mm) Between Pad U3-36(32.435mm,7.5mm) on Bottom Layer And Via (31.24mm,7.46mm) from Top Layer to Bottom Layer [Bottom Solder] Mask Sliver [0.076mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.06mm < 0.076mm) Between Pad U3-36(32.435mm,7.5mm) on Bottom Layer And Via (33.61mm,7.58mm) from Top Layer to Bottom Layer [Bottom Solder] Mask Sliver [0.06mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.024mm < 0.076mm) Between Via (31.21mm,9.47mm) from Top Layer to Bottom Layer And Via (31.33mm,10.07mm) from Top Layer to Bottom Layer [Top Solder] Mask Sliver [0.024mm] / [Bottom Solder] Mask Sliver [0.024mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.052mm < 0.076mm) Between Via (33.61mm,7.58mm) from Top Layer to Bottom Layer And Via (34.25mm,7.575mm) from Top Layer to Bottom Layer [Top Solder] Mask Sliver [0.052mm] / [Bottom Solder] Mask Sliver [0.052mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.062mm < 0.076mm) Between Via (45.19mm,10.49mm) from Top Layer to Bottom Layer And Via (45.19mm,9.84mm) from Top Layer to Bottom Layer [Top Solder] Mask Sliver [0.062mm] / [Bottom Solder] Mask Sliver [0.062mm]
+Rule Violations :6
+
+Processing Rule : Minimum Solder Mask Sliver (Gap=0.04mm) (HasFootprint('MOLX-47589-0001_V')),(HasFootprint('MOLX-47589-0001_V'))
+Rule Violations :0
+
+Processing Rule : Silk To Solder Mask (Clearance=0.17mm) (IsPad),(All)
+Rule Violations :0
+
+Processing Rule : Silk to Silk (Clearance=0.2mm) (All),(All)
+Rule Violations :0
+
+Processing Rule : Net Antennae (Tolerance=0mm) (All)
+   Violation between Net Antennae: Via (55.17mm,16.93mm) from Top Layer to Bottom Layer 
+   Violation between Net Antennae: Via (55.21mm,16.08mm) from Top Layer to Bottom Layer 
+   Violation between Net Antennae: Via (56.04mm,14.69mm) from Top Layer to Bottom Layer 
+   Violation between Net Antennae: Via (56.07mm,15.57mm) from Top Layer to Bottom Layer 
+   Violation between Net Antennae: Via (56.08mm,16.59mm) from Top Layer to Bottom Layer 
+   Violation between Net Antennae: Via (56.08mm,17.48mm) from Top Layer to Bottom Layer 
+   Violation between Net Antennae: Via (56.08mm,18.45mm) from Top Layer to Bottom Layer 
+   Violation between Net Antennae: Via (56.08mm,19.25mm) from Top Layer to Bottom Layer 
+   Violation between Net Antennae: Via (56.19mm,12.16mm) from Top Layer to Bottom Layer 
+   Violation between Net Antennae: Via (56.21mm,6.04mm) from Top Layer to Bottom Layer 
+   Violation between Net Antennae: Via (56.22mm,10.42mm) from Top Layer to Bottom Layer 
+   Violation between Net Antennae: Via (56.22mm,11.29mm) from Top Layer to Bottom Layer 
+   Violation between Net Antennae: Via (56.22mm,9.7mm) from Top Layer to Bottom Layer 
+   Violation between Net Antennae: Via (56.24mm,4.31mm) from Top Layer to Bottom Layer 
+   Violation between Net Antennae: Via (56.26mm,7.88mm) from Top Layer to Bottom Layer 
+   Violation between Net Antennae: Via (56.26mm,8.83mm) from Top Layer to Bottom Layer 
+   Violation between Net Antennae: Via (56.27mm,1.83mm) from Top Layer to Bottom Layer 
+   Violation between Net Antennae: Via (56.27mm,2.63mm) from Top Layer to Bottom Layer 
+   Violation between Net Antennae: Via (56.27mm,3.49mm) from Top Layer to Bottom Layer 
+   Violation between Net Antennae: Via (56.2mm,5.14mm) from Top Layer to Bottom Layer 
+   Violation between Net Antennae: Via (56.2mm,6.96mm) from Top Layer to Bottom Layer 
+Rule Violations :21
+
+Processing Rule : Room WiFi (Bounding Region = (0mm, 1.27mm, 62.87mm, 19.86mm) (InComponentClass('WiFi'))
+Rule Violations :0
+
+Processing Rule : Room U_STLINK-V2 (Bounding Region = (0mm, 1.27mm, 62.87mm, 19.86mm) (InComponentClass('U_STLINK-V2'))
+Rule Violations :0
+
+Processing Rule : Room U_MCU (Bounding Region = (0mm, 1.27mm, 62.87mm, 19.86mm) (InComponentClass('U_MCU'))
+Rule Violations :0
+
+Processing Rule : Height Constraint (Min=0mm) (Max=25.4mm) (Prefered=12.7mm) (All)
+Rule Violations :0
+
+
+Violations Detected : 38
+Waived Violations : 0
+Time Elapsed        : 00:00:01

@@ -1,0 +1,15 @@
+Removed Pin From Net: NetName=NetD1_2 Pin=R1-1
+Removed Pin From Net: NetName=NetDS1_1 Pin=R1-2
+Change Component Comment : Designator=R12 Old Comment=22R  New Comment=22R
+Change Component Comment : Designator=R13 Old Comment=100R  New Comment=100R
+Change Component Comment : Designator=R15 Old Comment=100R  New Comment=100R
+Added Component: Designator=R1(RESC0603(1608)_L)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Case-EIA"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case-Metric"; Value = "1608"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = "0.1 W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Technology"; Value = "SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "1 %"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "220.00 Ohm"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetD1_2 Pin=R1-1
+Added Pin To Net: NetName=NetDS1_1 Pin=R1-2
