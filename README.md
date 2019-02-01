@@ -5,6 +5,6 @@
 ## breadboard Friendly
 ## On baored debuger/programmer : STLINKV2
 ![alt text](https://i.imgur.com/scq64B5.png)
-![alt text](https://i.imgur.com/MlvJTXf.png)
+![alt text](https://imgur.com/a/goW0UXh)
 ![alt text](https://i.imgur.com/Yp0uPJH.png)
 
